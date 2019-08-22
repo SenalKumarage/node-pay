@@ -1,0 +1,30 @@
+{
+  "name": "node-pay",
+  "version": "1.0.0",
+  "description": "paypal integration with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenalKumarage/node-pay.git"
+  },
+  "keywords": [
+    "node.js",
+    "paypal"
+  ],
+  "author": "Senal Kumarage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SenalKumarage/node-pay/issues"
+  },
+  "homepage": "https://github.com/SenalKumarage/node-pay#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
